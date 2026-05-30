@@ -1,0 +1,12 @@
+[
+  { "customerId": "C001", "creditScore": 780 },
+  { "customerId": "C002", "creditScore": 820 },
+  { "customerId": "C003", "creditScore": 650 },
+  { "customerId": "C004", "creditScore": 760 },
+  { "customerId": "C005", "creditScore": 690 },
+  { "customerId": "C006", "creditScore": 850 },
+  { "customerId": "C007", "creditScore": 710 },
+  { "customerId": "C008", "creditScore": 740 },
+  { "customerId": "C009", "creditScore": 580 },
+  { "customerId": "C010", "creditScore": 800 }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "customerId": "C001",
+    "name": "Rahul Sharma",
+    "age": 29,
+    "city": "Lucknow",
+    "salary": 60000,
+    "phone": "9876543210",
+    "address": "12 Hazratganj, Lucknow, UP 226001",
+    "email": "rahul.sharma@email.com",
+    "existingLoans": []
+  },
+  {
+    "customerId": "C002",
+    "name": "Priya Patel",
+    "age": 34,
+    "city": "Ahmedabad",
+    "salary": 85000,
+    "phone": "9876543211",
+    "address": "45 SG Highway, Ahmedabad, GJ 380015",
+    "email": "priya.patel@email.com",
+    "existingLoans": ["Car Loan"]
+  },
+  {
+    "customerId": "C003",
+    "name": "Amit Kumar",
+    "age": 26,
+    "city": "Delhi",
+    "salary": 42000,
+    "phone": "9876543212",
+    "address": "88 Connaught Place, New Delhi, DL 110001",
+    "email": "amit.kumar@email.com",
+    "existingLoans": []
+  },
+  {
+    "customerId": "C004",
+    "name": "Sneha Reddy",
+    "age": 31,
+    "city": "Hyderabad",
+    "salary": 95000,
+    "phone": "9876543213",
+    "address": "22 Banjara Hills, Hyderabad, TS 500034",
+    "email": "sneha.reddy@email.com",
+    "existingLoans": ["Home Loan"]
+  },
+  {
+    "customerId": "C005",
+    "name": "Vikram Singh",
+    "age": 38,
+    "city": "Jaipur",
+    "salary": 55000,
+    "phone": "9876543214",
+    "address": "7 MI Road, Jaipur, RJ 302001",
+    "email": "vikram.singh@email.com",
+    "existingLoans": ["Personal Loan"]
+  },
+  {
+    "customerId": "C006",
+    "name": "Ananya Gupta",
+    "age": 27,
+    "city": "Bengaluru",
+    "salary": 110000,
+    "phone": "9876543215",
+    "address": "33 Koramangala, Bengaluru, KA 560034",
+    "email": "ananya.gupta@email.com",
+    "existingLoans": []
+  },
+  {
+    "customerId": "C007",
+    "name": "Rajesh Nair",
+    "age": 45,
+    "city": "Kochi",
+    "salary": 72000,
+    "phone": "9876543216",
+    "address": "5 Marine Drive, Kochi, KL 682031",
+    "email": "rajesh.nair@email.com",
+    "existingLoans": ["Car Loan", "Credit Card"]
+  },
+  {
+    "customerId": "C008",
+    "name": "Meera Joshi",
+    "age": 33,
+    "city": "Pune",
+    "salary": 68000,
+    "phone": "9876543217",
+    "address": "14 FC Road, Pune, MH 411005",
+    "email": "meera.joshi@email.com",
+    "existingLoans": []
+  },
+  {
+    "customerId": "C009",
+    "name": "Arjun Das",
+    "age": 40,
+    "city": "Kolkata",
+    "salary": 48000,
+    "phone": "9876543218",
+    "address": "9 Park Street, Kolkata, WB 700016",
+    "email": "arjun.das@email.com",
+    "existingLoans": ["Home Loan"]
+  },
+  {
+    "customerId": "C010",
+    "name": "Kavitha Menon",
+    "age": 36,
+    "city": "Chennai",
+    "salary": 92000,
+    "phone": "9876543219",
+    "address": "28 Anna Nagar, Chennai, TN 600040",
+    "email": "kavitha.menon@email.com",
+    "existingLoans": []
+  }
+]

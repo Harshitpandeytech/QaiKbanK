@@ -1,0 +1,12 @@
+[
+  { "customerId": "C001", "preApprovedLimit": 300000, "interestRate": 11.5 },
+  { "customerId": "C002", "preApprovedLimit": 500000, "interestRate": 10.5 },
+  { "customerId": "C003", "preApprovedLimit": 100000, "interestRate": 14.0 },
+  { "customerId": "C004", "preApprovedLimit": 600000, "interestRate": 10.0 },
+  { "customerId": "C005", "preApprovedLimit": 200000, "interestRate": 13.0 },
+  { "customerId": "C006", "preApprovedLimit": 800000, "interestRate": 9.5 },
+  { "customerId": "C007", "preApprovedLimit": 350000, "interestRate": 11.0 },
+  { "customerId": "C008", "preApprovedLimit": 400000, "interestRate": 11.5 },
+  { "customerId": "C009", "preApprovedLimit": 150000, "interestRate": 15.0 },
+  { "customerId": "C010", "preApprovedLimit": 550000, "interestRate": 10.0 }
+]
